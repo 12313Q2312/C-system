@@ -1,0 +1,5 @@
+build/
+cmake-build-*/
+*.tsv
+*.tmp
+__pycache__/
